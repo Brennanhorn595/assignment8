@@ -1,5 +1,5 @@
 body {
-	background-color: #222222;
+	background-color: #0000DB;
 	color: #666666;
 	font-size: 18px;
 	padding: 1em 8em;
@@ -17,12 +17,12 @@ header {
 a:link, a:visited, a:active {
 	border: 2px solid lightblue;
 	border-radius: 2px;
-	color: #ffff00;
+	color: #3700ff;
 }
 
 a:hover {
 	background-color: #ffff00;
-	color: #ffaa50;
+	color: #017001;
 }
 
 table {
@@ -32,8 +32,8 @@ table {
 
 table td {
 	background-color: #dd0000;
-	border: 1px solid #000000;
-	color: #ffaa50;
+	border: 1px solid #79ff8f;
+	color: #6a50ff;
 	margin: 0;
 	padding: .5em;
 }
