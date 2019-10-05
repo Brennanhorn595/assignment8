@@ -14,11 +14,6 @@ header {
 	text-align: center;
 }
 
-a:link, a:visited, a:active {
-	border: 2px solid lightblue;
-	border-radius: 2px;
-	color: #3700ff;
-}
 
 a:hover {
 	background-color: #ffff00;
